@@ -64,11 +64,9 @@ Once we have the URL, we’re ready to clone the repository. To do this, we’ll
 
 To create your branch, from your terminal window, change your directory so that you are working in the directory of the repository. Be sure to use the actual name of the repository (i.e. Hacktoberfest) to switch into that directory.
 
-#####    `cd Hacktoberfest`
+#####    `cd Hacktoberfest-2020`
 
 Now, we’ll create our new branch with the git branch command. Make sure you name it descriptively so that others working on the project understand what you are working on.
-
-![screenshot 154](https://github.com/koolgax99/HacktoberFest-2020/blob/master/6.png)
 
 ##### `git branch new-branch`
 
