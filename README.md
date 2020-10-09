@@ -6,7 +6,7 @@ Submit your pull request here for Hacktoberfest-2020 in any language you prefer,
 
 Hacktoberfest is a month long virtual festival event to celebrate open source contributions presented by DigitalOcean and DEV. It is the easiest way to get into open source!
 
-![image here](https://github.com/koolgax99/HacktoberFest-2020/blob/master/0.png)
+![image here](https://github.com/koolgax99/HacktoberFest-2020/blob/main/0.png)
 
 # Event details
 Hacktoberfest® is open to everyone in our global community. Whether you’re a developer, student learning to code, event host, or company of any size, you can help drive growth of open source and make positive contributions to an ever-growing community. All backgrounds and skill levels are encouraged to complete the challenge.
@@ -28,7 +28,7 @@ To qualify for the official limited edition Hacktoberfest shirt, you must regist
 ###### Link to register: https://hacktoberfest.digitalocean.com/
 Click on "Start Hacking" and add your GitHub account.
 
-![Screenshot-HFST](https://github.com/koolgax99/HacktoberFest-2020/blob/master/1.png)
+![Image1](https://github.com/koolgax99/HacktoberFest-2020/blob/main/1.png)
 
 
 
@@ -52,13 +52,13 @@ https://github.com/your-username/Hacktoberfest-2020.git
 
 You can alternatively copy the URL by using the green “Clone or download” button from your repository page that you just forked from the original repository page. Once you click the button, you’ll be able to copy the URL by clicking the binder button next to the URL:
 
-![screenshot 73](https://github.com/koolgax99/HacktoberFest-2020/blob/master/4.png)
+![Image 4](https://github.com/koolgax99/HacktoberFest-2020/blob/main/4.png)
 
 Once we have the URL, we’re ready to clone the repository. To do this, we’ll combine the git clone command with the repository URL from the command line in a terminal window:
 
 `git clone https://github.com/your-username/Hacktoberfest-2020.git`
 
-![screenshot 153](https://github.com/koolgax99/HacktoberFest-2020/blob/master/5.png)
+![Image 5](https://github.com/koolgax99/HacktoberFest-2020/blob/main/5.png)
 
 ### 4. Create a New Branch
 
