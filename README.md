@@ -58,7 +58,7 @@ Once we have the URL, we’re ready to clone the repository. To do this, we’ll
 
 `git clone https://github.com/your-username/Hacktoberfest-2020.git`
 
-![Image 5](https://github.com/koolgax99/HacktoberFest-2020/blob/main/5.png)
+![Image 5](https://github.com/koolgax99/HacktoberFest-2020/blob/main/5.PNG)
 
 ### 4. Create a New Branch
 
